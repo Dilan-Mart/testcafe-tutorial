@@ -1,0 +1,23 @@
+{
+  "name": "testcafe-tutorial",
+  "version": "1.0.0",
+  "description": "This is the first basic example of testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilan-Mart/testcafe-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilan-Mart/testcafe-tutorial/issues"
+  },
+  "homepage": "https://github.com/Dilan-Mart/testcafe-tutorial#readme",
+  "devDependencies": {
+    "testcafe": "^1.15.3"
+  }
+}
